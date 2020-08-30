@@ -1,2 +1,2 @@
 # musicalpython
-### Amusical instrument in python using simpleaudio, tkinter and numpy modules 
+### A musical instrument in python using simpleaudio, tkinter and numpy modules 
